@@ -1,0 +1,12 @@
+2023/09/03-18:51:49.688 4adc Recovering log #109
+2023/09/03-18:51:49.688 4adc Level-0 table #111: started
+2023/09/03-18:51:49.693 4adc Level-0 table #111: 138709 bytes OK
+2023/09/03-18:51:49.696 4adc Delete type=0 #109
+2023/09/03-18:51:49.697 4adc Delete type=3 #108
+2023/09/03-18:53:20.431 670c Moved #111 to level-1 138709 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2023/09/03-18:54:13.936 670c Compacting 1@1 + 1@2 files
+2023/09/03-18:54:13.951 670c Generated table #113@1: 119 keys, 122467 bytes
+2023/09/03-18:54:13.951 670c Compacted 1@1 + 1@2 files => 122467 bytes
+2023/09/03-18:54:13.951 670c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/03-18:54:13.951 670c Delete type=2 #103
+2023/09/03-18:54:13.952 670c Delete type=2 #111

@@ -1,0 +1,28 @@
+{
+  "title": "DnD",
+  "id": "dnd",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "11.308",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "2.3.1",
+  "lastPlayed": "Mon Sep 04 2023 15:00:42 GMT+0200 (Mitteleuropäische Sommerzeit)",
+  "playtime": 53536,
+  "packs": [
+    {
+      "label": "Tetris",
+      "type": "Macro",
+      "name": "tetris",
+      "path": "packs/tetris",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
